@@ -9,7 +9,7 @@ before_script:
 deploy:
   provider: heroku
   api_key:
-    secure: vFbbYOpw99NH7ATKyxvWQyS978IWWrpLBQH1Ly77qC0znULwu7z9tqHQVzrzjpNdb8yGftubUeRsnQfKNmwDuWHW8M28/ojBZ0ydgY82SwhM1C3LIKpXTX7fWC+VlKAUureEDmPzeKOBZ6b7L262iEZVby83laV3DzHhNF8msOQ=
-  app: rubyfiddle
+    secure: rhuOLtQATd3Yi2EZD6zfXQ/aynkFqzUHAx604q0ByXPf4pAeO5zQ+FS0+GY8UkJB6js3wKvqsflt3YEn+nbSBWKenz/NYhUenXd2NZnWFZePyOOe9D/ATB219XYYP8BQ9s9kSxhOK8dJNboazS7xIroYZ4sBxgl5EA5JKOODBH0byhPnLfImSEVtuOCCnJVLbMxSjyKLXPOrzFanjMlMY32gD7643+YG8MwTssDly9at8yIn9l1xmLi1VCyINwGNaabvxi9TWoGh4M8Af3Hg/lcqDsEfn/9G4u9VQzH2U/xbivk68ZQJWau6A4h7Wv3z4zHRCUO+hm5gee2huz/4G1Wb2XkUlQMHULF77FRzlKDi2yKX9xi5DuzJWNMbiXsKTE30hKhTwJIAVkNJb3tkavAZQSFNPi+N6S3rT0cpYSL/SCUxcYSmvE99DG0XyLFFRt3xx198yV2kyVfdYJcXQkgnyDC7DPZXJ/Lt+wkC88y+ugZhWsOsOIF1l3hNGv/eiwR7eB91qehND99Yr028ULMJkeNQ1+3UbEbMAKebkeSGpfmEQNpC3VIOj0fbYUEmzJwtRcZxpDd4CjgBYmPmwpFCUVDAjfVQ4d4ZjJ4UJC6ptygM3OHX3YddGXfJHZLcOOCyticrEfxlAZJp81exE2UNzPDxqJAMKIQfQbZ+ObI=
+  app: fresh-mc
   on:
-    repo: jwo/ruby-fiddle-web
+    repo: medols/ruby-fiddle-web
